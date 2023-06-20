@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GB\\C#1\\C_sharp\\Task1\\Task1.csproj": {}
+    "e:\\GB\\C#1\\C_sharp\\Task1\\Task1.csproj": {}
   },
   "projects": {
-    "E:\\GB\\C#1\\C_sharp\\Task1\\Task1.csproj": {
+    "e:\\GB\\C#1\\C_sharp\\Task1\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GB\\C#1\\C_sharp\\Task1\\Task1.csproj",
+        "projectUniqueName": "e:\\GB\\C#1\\C_sharp\\Task1\\Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "E:\\GB\\C#1\\C_sharp\\Task1\\Task1.csproj",
+        "projectPath": "e:\\GB\\C#1\\C_sharp\\Task1\\Task1.csproj",
         "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-        "outputPath": "E:\\GB\\C#1\\C_sharp\\Task1\\obj\\",
+        "outputPath": "e:\\GB\\C#1\\C_sharp\\Task1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\program_install\\VS_shared\\NuGetPackages",
